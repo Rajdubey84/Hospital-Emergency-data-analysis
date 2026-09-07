@@ -207,7 +207,8 @@ The analysis provides insights into:
 
 ## 📊 Dashboard Preview
 
-![Hospital Emergency Room Dashboard](Dashboard.png)
+![Hospital Emergency Room Dashboard](Hospital Dashboard Final.jpg)
+
 
 ---
 
@@ -216,6 +217,7 @@ The analysis provides insights into:
 ```text
 Hospital-Emergency-Room-Data-Analysis/
 │
-├── Hospital_Emergency_Data.xlsx
-├── Dashboard.png
+├── Hospital_Emergency_Room_Data.xlsx
+├── my project.xlsx
+├── Hospital Dashboard Final.jpg
 └── README.md
