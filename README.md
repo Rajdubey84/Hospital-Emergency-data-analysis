@@ -207,7 +207,7 @@ The analysis provides insights into:
 
 ## 📊 Dashboard Preview
 
-![Hospital Emergency Room Dashboard](Hospital_Dashboard_Final.jpg)
+![Hospital Emergency Room Dashboard](Dahboard.jpg)
 
 
 ---
